@@ -1,2 +1,2 @@
 # fast.ai
-Going through the fast.ai course, creating projects based on it, and taking notes on the material. Everything that there is to be covered in the course tailored to me.
+Going through the fast.ai course. Most of my notes will be uploaded here. I'll be keeping track of my progress, as usual. 
